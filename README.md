@@ -10,9 +10,7 @@ Work in progress.
 - [ ] Improve README
 - [ ] Add examples
 - [ ] Dockerize
-- [ ] Get content of url as Markdown
 - [ ] Search only references
 - [ ] Search only news
-- [ ] Support pagination
 - [ ] Support more products?
 - [ ] Add instructions
